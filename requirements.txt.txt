@@ -1,0 +1,7 @@
+pillow
+pytesseract
+opencv-python
+matplotlib
+transformers
+sentencepiece
+accelerate
